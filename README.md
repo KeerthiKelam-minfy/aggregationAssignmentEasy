@@ -150,7 +150,7 @@ db.products.aggregate([
 
 **3. Product Names and Prices, Sorted by Price (Descending):**
 
-![image](https://github.com/user-attachments/assets/ea43ff3d-40b5-4f54-9abb-26ec3b91870d)
+![image](https://github.com/user-attachments/assets/ea43ff3d-40b5-4f54-9abb-26ec3b91870d)  
 ![image](https://github.com/user-attachments/assets/7146da3e-5f06-43c5-bd50-de4911016197)
 
 
