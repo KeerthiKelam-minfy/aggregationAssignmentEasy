@@ -1,4 +1,4 @@
-# aggregationAssignment
+# aggregationAssignmentEasy
 
 
 ### Easy Difficulty
